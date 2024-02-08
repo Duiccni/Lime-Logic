@@ -1,4 +1,4 @@
-# Lime-Logic
+# Lime-Logic (ICE 1.3.2)
 My biggest project so far which is simulates logic gates. Based on GHMO-Library.
 
 * Graphic Library that used: https://github.com/Duiccni/GHMO-Library
