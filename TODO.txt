@@ -1,0 +1,6 @@
+﻿✔️			Second object catagory system
+✔️			Clock Object
+[NEXT]		or, xor, nand, nor gates
+			Save and Load System
+			Select, Carry, Delete, Copy
+			Make Custom Compact Desings
