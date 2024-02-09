@@ -11,3 +11,6 @@ https://github.com/Duiccni/Lime-Logic/assets/143947543/f10ff77f-cf8e-44f5-a498-c
 
 ### Dark Mode (Beta)
 ![image](https://github.com/Duiccni/Lime-Logic/assets/143947543/2cb013dc-b592-44a7-8a8f-c8a0e7e2c98c)
+
+### 2 bit decoder
+![image](https://github.com/Duiccni/Lime-Logic/assets/143947543/f3460b79-c1e5-44cc-b046-8281f4524048)
